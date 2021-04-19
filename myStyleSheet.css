@@ -76,9 +76,9 @@ a:active {
 	text-align = center;
 }
 
-/* * {
+* {
 	text-align = center;
-}*/
+}
 
 [class|="top"] {
 	background: yellow;
